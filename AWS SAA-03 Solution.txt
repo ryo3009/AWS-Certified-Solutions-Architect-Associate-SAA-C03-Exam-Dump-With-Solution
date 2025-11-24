@@ -9,6 +9,9 @@ Conditions: High speed Internet connectivity
 Task: aggregate the data from all in a single S3 bucket
 Requirements: as quick as possible, minimize operational complexity
 
+
+ththththththt
+
 Correct answer A: S3 Transfer Acceleration because:
 - ideally works with objects for long-distance transfer (uses Edge Locations)
 - can speed up content transfers to and from S3 as much as 50-500%
